@@ -1,6 +1,8 @@
 # Electrical and electromagnetic responses over steel-cased wells
 Lindsey J. Heagy and Douglas W. Oldenburg
 
+[![DOI](https://zenodo.org/badge/403161412.svg)](https://zenodo.org/badge/latestdoi/403161412)
+
 Notebooks to accompany the Leading Edge Article: _Electrical and electromagnetic responses over steel-cased wells_. Accepted for publication. 
 
 ## Abstract
