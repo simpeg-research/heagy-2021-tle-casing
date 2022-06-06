@@ -15,4 +15,4 @@ dependencies:
   - scipy=1.5.3
   - simpeg=0.17.0
   - pip:
-    - casingSimulations=0.2.0
+    - casingSimulations==0.2.0
