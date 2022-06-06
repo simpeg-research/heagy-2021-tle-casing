@@ -13,6 +13,6 @@ dependencies:
   - pymatsolver=0.2.0
   - python=3.8.12
   - scipy=1.5.3
+  - simpeg=0.17.0
   - pip:
-    - git+https://github.com/simpeg/simpeg.git@tdem-cleanup
-    - git+https://github.com/simpeg-research/casingSimulations@cleanup
+    - casingSimulations=0.2.0
