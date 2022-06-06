@@ -6,7 +6,7 @@ dependencies:
   - cython
   - discretize=0.7.3
   - jupyter
-  - matplotlib
+  - matplotlib=3.4.3
   - mkl
   - numpy
   - pydiso=0.0.3
