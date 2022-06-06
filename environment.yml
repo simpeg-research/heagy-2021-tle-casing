@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - cython
-  - discretize
+  - discretize=0.7.3
   - jupyter
   - matplotlib
   - mkl
